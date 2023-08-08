@@ -14,6 +14,6 @@ public abstract class SidesTriangle {
      * @param sideVal The value to be set for the triangle side.
      */
     public void setSideValue(double sideVal) {
-        sideValue = sideVal;
+        this.sideValue = sideVal;
     }
 }
